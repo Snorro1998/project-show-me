@@ -1,0 +1,4 @@
+#Tue Oct 22 14:46:47 CEST 2019
+base.0=C\:\\Users\\Henk\\Desktop\\Show-Me-Project-Tetris-bridge-builder-prototype-master\\Show Me prototype 1 - Tetris bridge builder\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
